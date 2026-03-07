@@ -13,7 +13,7 @@ spec:
         app: binarycalculator
     spec:
       containers:
-      - name: binarycalculator
-        image: us-central1-docker.pkg.dev/expanded-rider-489321-i1/sofe3980u/binarycalculator
-        ports:
-        - containerPort: 8080
+        - name: binarycalculator
+          image: us-central1-docker.pkg.dev/expanded-rider-489321-i1/sofe3980u/binarycalculator:latest
+          ports:
+            - containerPort: 8080
