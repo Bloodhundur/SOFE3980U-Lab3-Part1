@@ -2,5 +2,5 @@
 
 ## YAML Files
 
-- [binarycalculator-deploy.yaml](binarycalculator-deploy.yaml)
-- [binarycalculator-service.yaml](binarycalculator-service.yaml)
+- [binarycalculator-deploy.yaml](BinaryCalculatorWebApp/binarycalculator-deploy.yaml)
+- [binarycalculator-service.yaml](BinaryCalculatorWebApp/binarycalculator-service.yaml)
